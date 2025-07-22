@@ -3,10 +3,10 @@
 
 ## 実行に使ったコード
 結果は.log内
-* SPECK : https://github.com/parari415/speck-cipher
-* ChaCha20 : https://github.com/parari415/chacha20
+* [SPECK](https://github.com/parari415/speck-cipher)
+* [ChaCha20](https://github.com/parari415/chacha20)
 ## 実行メモ
-memo.md
+[memo.md](memo.md)
 ## 参考
 ### SPECK
 * https://github.com/jameswmccarty/SPECK-cipher
