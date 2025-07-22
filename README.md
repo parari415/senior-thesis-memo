@@ -5,6 +5,8 @@
 結果は.log
 * SPECK : https://github.com/parari415/speck-cipher
 * ChaCha20 : https://github.com/parari415/chacha20
+## 実行メモ
+https://github.com/parari415/senior-thesis-memo/blob/main/memo.md
 ## 参考
 ### SPECK
 * https://github.com/jameswmccarty/SPECK-cipher
